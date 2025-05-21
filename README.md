@@ -37,9 +37,7 @@ Claw.Cloud专用一键脚本(无交互)：
 ```
 wget -N https://raw.githubusercontent.com/yonggekkk/sb-nodejs/main/app.js && UUID=你的uuid PORT=服务器可使用的端口 DOMAIN=服务器域名 node app.js
 ```
-----------------------------------------------------------
------------------------------------------------------
------------------------------------------------------
+-----
 
 ### 相关教程可参考甬哥博客，视频教程如下：
 
@@ -47,9 +45,7 @@ wget -N https://raw.githubusercontent.com/yonggekkk/sb-nodejs/main/app.js && UUI
 
 [Claw.cloud免费VPS搭建代理最终教程：全网最简单 | 两大无交互回车脚本 | 套CDN优选IP | workers反代 | ArgoSB隧道搭建](https://youtu.be/Esofirx8xrE)
 
-更新中……
-
-----------------------------------------------------------
+------
 
 ### 交流平台：[甬哥博客地址](https://ygkkk.blogspot.com)、[甬哥YouTube频道](https://www.youtube.com/@ygkkk)、[甬哥TG电报群组](https://t.me/+jZHc6-A-1QQ5ZGVl)、[甬哥TG电报频道](https://t.me/+DkC9ZZUgEFQzMTZl)
 
