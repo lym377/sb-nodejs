@@ -6,7 +6,7 @@ Webhostmost老账户建议使用Node.js本地环境编辑文件方式搭建，�
 
 
 ```
-wget -N https://raw.githubusercontent.com/yonggekkk/sb-nodejs/main/whm.sh && UUID=你的uuid PORT=服务器可使用的端口 DOMAIN=已解析在CF的域名 bash whm.sh
+wget -N https://raw.githubusercontent.com/lym377/sb-nodejs/refs/heads/main/whw.sh && UUID=你的uuid PORT=服务器可使用的端口 DOMAIN=已解析在CF的域名 bash whm.sh
 ```
 
 
