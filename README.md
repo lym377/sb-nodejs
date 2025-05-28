@@ -43,6 +43,8 @@ wget -N https://raw.githubusercontent.com/yonggekkk/sb-nodejs/main/app.js && UUI
 
 [Webhostmost最新搭建免费节点最终教程：6大地区IP真相 | 保活方案 | Nodejs红字报错 | 重装系统 | 使用总结](https://youtu.be/s6b1CFKkQqE)
 
+[Webhostmost最新搭建免费节点最终教程（二）：免费节点绕过收费限制？终结了！Webhostmost最后的一期](https://youtu.be/F7qA6XYCHv8)
+
 [Claw.cloud免费VPS搭建代理最终教程：全网最简单 | 两大无交互回车脚本 | 套CDN优选IP | workers反代 | ArgoSB隧道搭建](https://youtu.be/Esofirx8xrE)
 
 ------
