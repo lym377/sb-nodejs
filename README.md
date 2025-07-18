@@ -1,30 +1,20 @@
-## 一、Webhostmost在Node.js环境搭建vless-ws-tls脚本
+## 一、Webhostmost、freecloud.ltd在Node.js环境搭建vless-ws-tls脚本
 
-Webhostmost新账户目前仅支持Node.js本地环境编辑或者上传文件方式搭建
+目前新注册的Webhostmost账号的开发者工具（Development Tools）有Terminal，说明可以进入SSH，然后输入以下一键脚本，这样就不用上传文件了
 
-Webhostmost老账户建议使用Node.js本地环境编辑文件方式搭建，官方已限制curl与wget依赖，目前以下脚本已不可用
+UUID：你的uuid
 
+PORT：服务器可使用的端口，建议留空随机生成
+
+DOMAIN：已解析在CF的域名
 
 ```
 wget -N https://raw.githubusercontent.com/lym377/sb-nodejs/refs/heads/main/whw.sh && UUID=你的uuid PORT=服务器可使用的端口 DOMAIN=已解析在CF的域名 bash whm.sh
 ```
 
-
-原教程直接用app.js文件编辑变量可能存在不方便或者不安全的问题，建议在Node.js界面下添加或者修改变量
-
-UUID：你的uuid
-
-PORT：服务器可使用的端口
-
-DOMAIN：已解析在CF的域名
-
-![image](https://github.com/user-attachments/assets/6d317d44-605a-4c7d-af35-453fc4aeea51)
-
-Webhostmost新/老账户，建议使用外部节点保活方式，可使用workers_keep文件进行保活
+建议使用外部节点保活方式，可使用workers_keep文件进行保活
 
 节点保活及节点信息地址：https://你已解析在CF的域名/你的uuid
-
-账户保活？请注意：Webhostmost免费账户需要每45天登录一次网页界面，过期会删除数据，请留意
 
 -----------------------------------------------------
 
